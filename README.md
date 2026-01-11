@@ -10,7 +10,20 @@ A Chrome extension allows users to mark timestamps of a YouTube video and furthe
 
 ## Installation Guide
 
+1. First make sure that you are running a Chromium based browser (for maximum compatibility). 
+2. Clone this repository to your (local) system.
+3. Now, open your (Chromium based) browser and type (in the address bar) `browser://extensions/` where `browser` is the name of your browser (where the extension will be installed). For example, `chrome://extensions/` or `brave://extensions/`, etc.
+4. Turn on developer mode on your browser. [Here](https://youtu.be/l_9zQr_hY6I?si=Y0C_ZoH-vETRXWeR) is a 30 second tutorial to do that in Chrome.
+5. Now click on 'Load unpacked' at the top right corner of the tab and select the local clone of this repository that you created in step 2.
+![Installation Screenshot](assets/screenshots/ss_install.png)
+6. Pin the extension next to your address bar for easy access. 
+7. You are ready to use the extension. Enjoy!
 
+Then, turn on developer mode on your browser. [Here](https://youtu.be/l_9zQr_hY6I?si=Y0C_ZoH-vETRXWeR) is a 30 second tutorial to do that in Chrome.
+
+2. Then clone this repository to your system. Then open Chrome and go to `browser://extensions/` where `browser` is the name of the browser where you want to load the extension. For example, `chrome://extensions/` or `brave://extensions/`, etc.
+
+3. 
 
 
 
