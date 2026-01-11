@@ -8,6 +8,10 @@ A Chrome extension allows users to mark timestamps of a YouTube video and furthe
 
 **Client Side:** HTML, CSS, Javascript
 
+## Installation Guide
+
+
+
 
 
 
@@ -68,8 +72,7 @@ A Chrome extension allows users to mark timestamps of a YouTube video and furthe
 ## Lessons Learned
 
 - There is a huge difference between the architecture of Manifest V3 (the latest generation of web extension platform) and its predecessors (Manifest V2 and others). As a developer, it was important to understand this since Chrome and Edge(will soon) have retired Manifest V2 completely.
-- CS50x did not introduce the concept of asynchronous functions (await, promise, etc.) in javascript, which play a crucial role in this project (and web extensions in general).
-
+- Async functions play a major role in the design of the popup's logic (`popup.js`). 
 - Flexbox Model in CSS.
 
 ## Documentation Used
