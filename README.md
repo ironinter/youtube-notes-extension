@@ -19,15 +19,6 @@ A Chrome extension allows users to mark timestamps of a YouTube video and furthe
 6. Pin the extension next to your address bar for easy access. 
 7. You are ready to use the extension. Enjoy!
 
-Then, turn on developer mode on your browser. [Here](https://youtu.be/l_9zQr_hY6I?si=Y0C_ZoH-vETRXWeR) is a 30 second tutorial to do that in Chrome.
-
-2. Then clone this repository to your system. Then open Chrome and go to `browser://extensions/` where `browser` is the name of the browser where you want to load the extension. For example, `chrome://extensions/` or `brave://extensions/`, etc.
-
-3. 
-
-
-
-
 ## Important Files:
 
 `manifest.json` : The most important (and the only mandatory) file which defines the blueprint of the extension. It provides information about its structure, behavior, permissions, and resources to the browser.
